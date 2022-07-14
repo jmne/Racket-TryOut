@@ -1,4 +1,4 @@
 # Racket-TryOut
-Rumprobieren mit funktionaler Programmiersprache "Racket"
+Rumprobieren mit multi-paradigmatische Programmiersprache aus der Lisp-Scheme-Familie "Racket".
 
 Dokumentation [hier](https://docs.racket-lang.org/)
